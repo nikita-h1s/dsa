@@ -1,6 +1,3 @@
-import time
-
-
 def find_nums_naive(m, target_sum=0):
     res_arr = []
 
